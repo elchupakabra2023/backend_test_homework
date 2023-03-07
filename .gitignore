@@ -1,1 +1,2 @@
-*.doc  #ignore .doc - files
+#ignore .doc - files
+*.doc
